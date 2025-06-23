@@ -55,8 +55,8 @@ import { ref } from 'vue';
 import checkImg from '@/assets/img/Frame_138653.png';
 import alert from '@/assets/img/Error.png';
 
-const showSuccess = ref(false); 
-const showMobileSuccess = ref(false); 
+const showSuccess = ref(true); 
+const showMobileSuccess = ref(true); 
 const showAlreadyClaimed = ref(true); 
 
 </script>
